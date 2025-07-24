@@ -1,0 +1,14 @@
+astropy>=4.0.0
+cycler
+kiwisolver
+matplotlib
+numpy
+pandas
+pyparsing
+python-dateutil
+pytz
+scipy>=0.19
+lmfit
+six
+specutils
+PyQt5
